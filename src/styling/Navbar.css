@@ -33,3 +33,8 @@
     color: #F1B94B;
     background-color: #772814;
 }
+
+.nav-items:focus:hover {
+    color: black;
+    background-color: #F1B94B;
+}

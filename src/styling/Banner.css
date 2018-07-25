@@ -1,0 +1,25 @@
+.banner {
+    height: 80vh;
+    background-image: url('https://s3-us-west-2.amazonaws.com/mtg-assistant/https___magic.wizards.com_sites_mtg_files_images_wallpaper_Mulrotha-the-Gravetide_DAR_2560x1600_Wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-position: center top 0px;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom:0;
+    z-index: -99;
+    color: black;
+    font-family:'Beleren', sans-serif;
+}
+
+.banner-title {
+    margin-top: 0px;
+}
+
+.banner-text {
+    width: 100%;
+    background-color: #4f4f4f;
+}
+
+.row {
+    margin-bottom: 0px;
+}
