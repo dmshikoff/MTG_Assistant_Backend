@@ -1,0 +1,35 @@
+.nav-brand {
+    min-height: 90px;
+    font-family:'Beleren', sans-serif;
+    background-color: #4f4f4f;
+    border-bottom: 3px ridge #F1B94B;
+}
+
+.nav-row {
+    margin-bottom: 0px;
+}
+
+.mtg-logo {
+    height: 70px;
+    width: 70px;
+}
+
+.nav-wrapper {
+    width: 100%;
+}
+
+.nav-items {
+    font-size: 20px;
+    color: #F1B94B;
+    background-color: #772814;
+}
+
+.nav-items:hover {
+    color: black;
+    background-color: #F1B94B;
+}
+
+.nav-items:focus {
+    color: #F1B94B;
+    background-color: #772814;
+}
